@@ -1,0 +1,17 @@
+tripduration,starttime,stoptime,start station id,start station name,start station latitude,start station longitude,end station id,end station name,end station latitude,end station longitude,bikeid,name_localizedValue0,usertype,birth year,gender
+t,r,i,p,d,u,r,a,t,i,o,n
+s,t,a,r,t,t,i,m,e
+s,t,o,p,t,i,m,e
+s,t,a,r,t, ,s,t,a,t,i,o,n, ,i,d
+s,t,a,r,t, ,s,t,a,t,i,o,n, ,n,a,m,e
+s,t,a,r,t, ,s,t,a,t,i,o,n, ,l,a,t,i,t,u,d,e
+s,t,a,r,t, ,s,t,a,t,i,o,n, ,l,o,n,g,i,t,u,d,e
+e,n,d, ,s,t,a,t,i,o,n, ,i,d
+e,n,d, ,s,t,a,t,i,o,n, ,n,a,m,e
+e,n,d, ,s,t,a,t,i,o,n, ,l,a,t,i,t,u,d,e
+e,n,d, ,s,t,a,t,i,o,n, ,l,o,n,g,i,t,u,d,e
+b,i,k,e,i,d
+n,a,m,e,_,l,o,c,a,l,i,z,e,d,V,a,l,u,e,0
+u,s,e,r,t,y,p,e
+b,i,r,t,h, ,y,e,a,r
+g,e,n,d,e,r
